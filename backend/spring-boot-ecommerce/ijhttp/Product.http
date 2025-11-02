@@ -1,0 +1,7 @@
+### GET All Product
+GET http://localhost:8081/product
+Accept: application/json
+
+### GET Product By Id
+GET http://localhost:8081/product/1
+Accept: application/json
